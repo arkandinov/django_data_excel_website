@@ -26,7 +26,7 @@ Aplikasi web berbasis Django yang dirancang untuk menampilkan, memfilter, dan me
 -   **Frontend:**
     -   HTML5 / CSS3
     -   JavaScript (jQuery & DataTables.js)
-    -   Bootstrap 5 (atau framework CSS lainnya)
+    -   Bootstrap 5
 -   **Database:**
     -   Microsoft SQL Server
 
